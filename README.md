@@ -1,5 +1,3 @@
-# Mantine Next Template
+# Personal Portfolio
 
-Get started with the template by clicking `Use this template` button on the top of the page.
-
-[Documentation](https://mantine.dev/guides/next/)
+Check me out at [www.dibdin.me](https://www.dibdin.me)
